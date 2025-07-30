@@ -1,0 +1,11 @@
+{
+    "module_name": "Deneme",
+    "module_description": "Test amaçlı örnek bir modüldür.",
+    "module_version": "1.0.0",
+    "author": "sairus-cyr",
+    "tags": [
+        "test",
+        "örnek",
+        "tool"
+    ]
+}
