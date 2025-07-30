@@ -9,7 +9,8 @@
                 "test",
                 "örnek",
                 "tool"
-            ]
+            ],
+            "module_online_path": "modules/deneme"
         }
     ]
 }
